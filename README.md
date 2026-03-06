@@ -14,16 +14,6 @@
 
 ---
 
-### 📊 Operational Dashboard (Live Tracking)
-ಇಲ್ಲಿ ನನ್ನ ಪ್ರಮುಖ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳ ಲೈವ್ ಸ್ಟೇಟಸ್ ಗಮನಿಸಿ:
-
-| 📁 Project | 🛠️ Technology | 🚥 Build Status | ⭐ Stars |
-| :--- | :--- | :--- | :--- |
-| **[Linux Mastery](https://github.com/CloudSarathi/01-Linux-Fundamentals)** | `Bash` `Linux` | ![Build](https://img.shields.io/github/actions/workflow/status/CloudSarathi/01-Linux-Fundamentals/lint-test.yml?branch=main&label=CI/CD) | ![Stars](https://img.shields.io/github/stars/CloudSarathi/01-Linux-Fundamentals?style=social) |
-| **[Git Workflow](https://github.com/CloudSarathi/02-Git-GitHub)** | `Git` `GitHub` | ![Status](https://img.shields.io/badge/Docs-Live-success) | ![Stars](https://img.shields.io/github/stars/CloudSarathi/02-Git-GitHub?style=social) |
-
----
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;Open+Source+Maintainer" alt="Typing SVG" />
 </div>
