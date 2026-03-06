@@ -1,4 +1,4 @@
-# <div align="center">🛠️ **Modern DevOps Architecture & Cloud Excellence**</div>
+# 🛠️ **Modern DevOps Architecture & Cloud Excellence**</div>
 
 
 <p align="center">
