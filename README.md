@@ -1,5 +1,29 @@
 # <div align="center">🛠️ **Modern DevOps Architecture & Cloud Excellence**</div>
 
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Cloud%20Sarathi&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Automating%20the%20Future%20|%20Scaling%20the%20Cloud&descAlignY=60&descSize=25" />
+</p>
+
+## 👋 ಹಲೋ! ನಾನು Cloud Sarathi
+> **Passionate DevOps Engineer & Educator dedicated to simplifying Cloud technologies in Kannada.**
+
+<p align="left">
+<img src="https://komarev.com/ghpvc/?username=CloudSarathi&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
+
+---
+
+### 📊 Operational Dashboard (Live Tracking)
+ಇಲ್ಲಿ ನನ್ನ ಪ್ರಮುಖ ಪ್ರಾಜೆಕ್ಟ್‌ಗಳ ಲೈವ್ ಸ್ಟೇಟಸ್ ಗಮನಿಸಿ:
+
+| 📁 Project | 🛠️ Technology | 🚥 Build Status | ⭐ Stars |
+| :--- | :--- | :--- | :--- |
+| **[Linux Mastery](https://github.com/CloudSarathi/01-Linux-Fundamentals)** | `Bash` `Linux` | ![Build](https://img.shields.io/github/actions/workflow/status/CloudSarathi/01-Linux-Fundamentals/lint-test.yml?branch=main&label=CI/CD) | ![Stars](https://img.shields.io/github/stars/CloudSarathi/01-Linux-Fundamentals?style=social) |
+| **[Git Workflow](https://github.com/CloudSarathi/02-Git-GitHub)** | `Git` `GitHub` | ![Status](https://img.shields.io/badge/Docs-Live-success) | ![Stars](https://img.shields.io/github/stars/CloudSarathi/02-Git-GitHub?style=social) |
+
+---
+
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=DevOps+Engineer;Cloud+Architect;Automation+Specialist;Open+Source+Maintainer" alt="Typing SVG" />
 </div>
@@ -92,6 +116,18 @@ DevOps knowledge should be accessible to everyone. We believe in:
 | [**Ultimate Docs Portal**](https://docs.evopsguytech.com) <br> _900+ Curated Materials_ | [**Real-Time Projects**](https://projectspsguytech.com) <br> _Hands-on Experience_ |
 | [**Docker to K8s**](https://dockertokrnetes.live) <br> _Container Mastery_ | [**Monitoring in a Box**](https://devops-mo-in-a-box.vercel.app) <br> _Ready-to-use Prometheus/Grafana_ |
 | [**Interview Prep**](https://github.com/DevOps-Interview-Questions) <br> _1100+ Q&A_ | [**Awesome DevOps UI**](https://awesoevopsui.site) <br> _Visual Management Tools_ |
+
+---
+
+### 🛠️ My Tech Ecosystem
+<p align="left">
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /></a>
+</p>
 
 ---
 
