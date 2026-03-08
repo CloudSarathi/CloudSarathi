@@ -40,7 +40,7 @@
 ### 🎯 What I Do
 - 🌩️ **Cloud Architecture & Strategy**
   - Designing high-availability AWS/Azure environments.
-  - Expert Kubernetes orchestration & scaling.
+  - Kubernetes orchestration & scaling.
 - 🤖 **DevOps & Platform Engineering**
   - Building robust CI/CD with GitHub Actions.
   - 100% Infrastructure as Code (Terraform/Ansible).
